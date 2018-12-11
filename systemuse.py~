@@ -1,0 +1,4 @@
+import os
+print(os.system("control panel"))
+print(os.system("notepad"))
+print(os.system("open C:/Users/Preyanshu/Desktop/Python/moduleos.txt"))

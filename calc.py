@@ -1,0 +1,6 @@
+x=eval(input("Enter number1:"))
+y=eval(input("Enter number2:"))
+print("number1+number2",x+y)
+print("number1-number2:",x-y)
+print("number1*number2:",x*y)
+print("number1/number2:",x/y)
